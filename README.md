@@ -21,3 +21,21 @@ Enthusiastic CSE'26 student passionate about tech fusion: UI/UX design, Competit
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ashwithaa-l" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ashwithaa-l-904929278" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+<b>My GitHub Stats</b>
+
+<p>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ashwithaa-l&count_private=true&show_icons=true&theme=react" display:/>
+    <img width="425" src="https://streak-stats.demolab.com/?user=ashwithaa-l&theme=react" />
+</p>
+
+<br>
+<h4>My Github Contribution</h4>
+<p>
+  <a href="https://github.com/ashwithaa-l">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwithaa-l&theme=react" alt="Ashwithaa L GitHub Contribution"/>
+  </a>
+</p>
+<br>
+<a href="https://github.com/ashwithaa-l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwithaa-l&langs_count=10&theme=react&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
